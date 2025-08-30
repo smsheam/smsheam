@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samiun Muntasir Sheam  
 
-🎓 **Prospective PhD Aspirant (Spring/Fall 2026)**  
+🎓 **Prospective PhD Aspirant (Fall 2026)**  
 🔬 Interested in **Machine Learning | Additive Manufacturing | Control Systems**  
 
 
@@ -22,11 +22,15 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/Sheam.Buet/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.m.sheam) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smsheam/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@smsheam) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsheam1@gmail.com)  
+[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/smsheam)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smsheam/)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fAP8InQAAAAJ&hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/Sheam.Buet/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/s.m.sheam) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsheam1@gmail.com) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@smsheam)
+
+
 
 
 # 💻 Tech Stack:
