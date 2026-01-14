@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samiun Muntasir Sheam  
 
 🎓 **Prospective PhD Aspirant (Fall 2026)**  
-🔬 Interested in **Machine Learning | Additive Manufacturing | Control Systems**  
+🔬 Interested in **Machine Learning | Additive Manufacturing | Process Optimization**  
 
 
 
